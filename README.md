@@ -44,13 +44,7 @@ http://localhost:49242
 - Ensure filenames match what the platform/evaluation expects.
 - During peer evaluation, you must be able to solve random levels without external tools.
 
-## Conversion Tables (Subnetting Cheat Sheet)
-This section is intentionally included so you can keep local conversion tables inspired by:
-https://www.aelius.com/njh/subnet_sheet.html
-
-You can use or extend the tables below.
-
-### Table 1
+## Conversion Subnetting Table
 | CIDR | Addresses | Hosts | Netmask         |
 |------|-----------|-------|-----------------|
 | /30  | 4         | 2     | 255.255.255.252 |
